@@ -1,4 +1,4 @@
-# FogOS
+# FogOS: Sparkly Sealion
 
 Fall 2025 Edition
 
